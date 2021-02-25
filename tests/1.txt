@@ -1,0 +1,167 @@
+
+1月8号，星期五：11：25
+交易cid: bafyreihipo7t4zravwzs6n4lbban44onwgnnzfh6cusik64ez4wzwmniq4
+
+
+"DealInfo: ": {
+    "ProposalCid": {
+      "/": "bafyreihipo7t4zravwzs6n4lbban44onwgnnzfh6cusik64ez4wzwmniq4"
+    },
+    "State": 3,
+    "Message": "",
+    "Provider": "t0112831",
+    "DataRef": {
+    "TransferType": "graphsync",
+    	  "Root": {
+       		 "/": "bafk2bzacec5si7p4grpcbx6edssawmrpgrmtq2zz2onvsw2fbwafxqyo3vhhw"
+     		 },
+     	  "PieceCid": {
+       		 "/": "baga6ea4seaqgsiceh7az3b67cjvwd7l27qld74syhuwqd5rnr24ooq4772wy2cy"
+     		 },
+     	  "PieceSize": 130048
+    },
+    "PieceCID": {
+      "/": "baga6ea4seaqgsiceh7az3b67cjvwd7l27qld74syhuwqd5rnr24ooq4772wy2cy"
+    },
+    "Size": 130048,
+    "PricePerEpoch": "61035",
+    "Duration": 522307,
+    "DealID": 0,
+    "CreationTime": "2021-01-07T22:17:24.356258978-05:00",
+    "Verified": false,
+    "TransferChannelID": {
+      "Initiator": "12D3KooWEAYYtKjtpfv7NgqjQZqbQpyo2GxEGMLz9tXje4EmxfvM",
+      "Responder": "12D3KooWBjd4qSUzqE7nCvX5m5ktpePdybKEp7RAC8UErVrobv2P",
+      "ID": 14
+    },
+    "DataTransfer": {
+      "TransferID": 14,
+      "Status": 6,
+      "BaseCID": {
+        "/": "bafk2bzacec5si7p4grpcbx6edssawmrpgrmtq2zz2onvsw2fbwafxqyo3vhhw"
+      },
+      "IsInitiator": true,
+      "IsSender": true,
+      "Voucher": "{\"Proposal\":{\"/\":\"bafyreihipo7t4zravwzs6n4lbban44onwgnnzfh6cusik64ez4wzwmniq4\"}}",
+      "Message": "",
+      "OtherPeer": "12D3KooWBjd4qSUzqE7nCvX5m5ktpePdybKEp7RAC8UErVrobv2P",
+      "Transferred": 0
+    }
+ }
+
+
+3个小时过后，交易发生更新：
+{
+  "DealInfo: ": {
+    "ProposalCid": {
+      "/": "bafyreihipo7t4zravwzs6n4lbban44onwgnnzfh6cusik64ez4wzwmniq4"
+    },
+    "State": 7,
+    "Message": "",
+    "Provider": "t0112831",
+    "DataRef": {
+      "TransferType": "graphsync",
+      "Root": {
+        "/": "bafk2bzacec5si7p4grpcbx6edssawmrpgrmtq2zz2onvsw2fbwafxqyo3vhhw"
+      },
+      "PieceCid": {
+        "/": "baga6ea4seaqgsiceh7az3b67cjvwd7l27qld74syhuwqd5rnr24ooq4772wy2cy"
+      },
+      "PieceSize": 130048
+    },
+    "PieceCID": {
+      "/": "baga6ea4seaqgsiceh7az3b67cjvwd7l27qld74syhuwqd5rnr24ooq4772wy2cy"
+    },
+    "Size": 130048,
+    "PricePerEpoch": "61035",
+    "Duration": 522307,
+    "DealID": 31979,
+    "CreationTime": "2021-01-07T22:17:24.356258978-05:00",
+    "Verified": false,
+    "TransferChannelID": {
+      "Initiator": "12D3KooWEAYYtKjtpfv7NgqjQZqbQpyo2GxEGMLz9tXje4EmxfvM",
+      "Responder": "12D3KooWBjd4qSUzqE7nCvX5m5ktpePdybKEp7RAC8UErVrobv2P",
+      "ID": 14
+    },
+    "DataTransfer": {
+      "TransferID": 14,
+      "Status": 6,
+      "BaseCID": {
+        "/": "bafk2bzacec5si7p4grpcbx6edssawmrpgrmtq2zz2onvsw2fbwafxqyo3vhhw"
+      },
+      "IsInitiator": true,
+      "IsSender": true,
+      "Voucher": "{\"Proposal\":{\"/\":\"bafyreihipo7t4zravwzs6n4lbban44onwgnnzfh6cusik64ez4wzwmniq4\"}}",
+      "Message": "",
+      "OtherPeer": "12D3KooWBjd4qSUzqE7nCvX5m5ktpePdybKEp7RAC8UErVrobv2P",
+      "Transferred": 0
+    }
+  },
+  "OnChain": {
+    "Proposal": {
+      "PieceCID": {
+        "/": "baga6ea4seaqgsiceh7az3b67cjvwd7l27qld74syhuwqd5rnr24ooq4772wy2cy"
+      },
+      "PieceSize": 131072,
+      "VerifiedDeal": false,
+      "Client": "t0112503",
+      "Provider": "t0112831",
+      "Label": "mAVWg5AIguyR9/DReIN/EHKQLMi80WThrOdObWVtFDYBbww7dTns",
+      "StartEpoch": 228593,
+      "EndEpoch": 750900,
+      "StoragePricePerEpoch": "61035",
+      "ProviderCollateral": "62727336922",
+      "ClientCollateral": "0"
+    },
+    "State": {
+      "SectorStartEpoch": 223098,
+      "LastUpdatedEpoch": -1,
+      "SlashEpoch": -1
+    }
+  }
+}
+
+
+
+
+
+1月9日6:11，周六,命令行模式
+交易CID:bafyreihiv2d3f3k5s563dv6374tgualfanshrkz5zund477hwghuw7mu5u
+
+{
+  "DealInfo: ": {
+    "ProposalCid": {
+      "/": "bafyreihiv2d3f3k5s563dv6374tgualfanshrkz5zund477hwghuw7mu5u"
+    },
+    "State": 23,
+    "Message": "",
+    "Provider": "t0112831",
+    "DataRef": {
+      "TransferType": "graphsync",
+      "Root": {
+        "/": "bafk2bzacec5si7p4grpcbx6edssawmrpgrmtq2zz2onvsw2fbwafxqyo3vhhw"
+      },
+      "PieceCid": {
+        "/": "baga6ea4seaqgsiceh7az3b67cjvwd7l27qld74syhuwqd5rnr24ooq4772wy2cy"
+      },
+      "PieceSize": 130048
+    },
+    "PieceCID": {
+      "/": "baga6ea4seaqgsiceh7az3b67cjvwd7l27qld74syhuwqd5rnr24ooq4772wy2cy"
+    },
+    "Size": 130048,
+    "PricePerEpoch": "61035",
+    "Duration": 521360,
+    "DealID": 0,
+    "CreationTime": "2021-01-09T05:09:43.395051679-05:00",
+    "Verified": false,
+    "TransferChannelID": null,
+    "DataTransfer": null
+  }
+}
+...huw7mu5u  0       t0112831  StorageDealClientFunding  N                 N         ...772wy2cy  127 KiB    0.0000000318212076 FIL    521360    false     
+
+
+//目前问题：
+//1、检索不通
+//2、封装api
